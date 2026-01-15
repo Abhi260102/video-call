@@ -7,6 +7,7 @@ import { BsSendFill, BsEmojiSmile } from "react-icons/bs";
 import Picker from "emoji-picker-react";
 import "./Chat.css";
 
+
 const ChatModal = ({
   isVisible,
   toggleModal,
